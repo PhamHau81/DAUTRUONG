@@ -1,0 +1,8 @@
+{
+  "name": "Đấu Trường Toán Học THPT - 4 Game Show Giáo Dục KNTT",
+  "description": "Ứng dụng Game Show Toán học tương tác dành cho Giáo viên & Học sinh THPT (Lớp 10, 11, 12 - Kết Nối Tri Thức). Tích hợp 4 trò chơi đỉnh cao, 60 câu hỏi chuẩn GDPT 2018, âm thanh Web Audio và tính năng tải file HTML offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
